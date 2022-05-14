@@ -1,1 +1,1 @@
-# Django Multi Language Course (SUSYS)
+# Django Multi Language Course
